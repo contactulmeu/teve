@@ -1,0 +1,26 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",VIASAT HISTORY
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26952?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Explore RO
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/36049?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",ProTV FHD RO
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/36085?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Etno
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27096?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Favorit TV
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27097?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRIMA TV SD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26912?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",KANAL D HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26908?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26923?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR 1 RO
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/36057?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 1
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27080?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 2
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/27082?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",HBO 3 FHD RO
+http://iptvworld.nl:2095/nh4632b3Cg/MXxtGTDG5v/36130?checkedby:hlscat.com
